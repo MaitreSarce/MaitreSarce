@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaitreSarce
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me, it's a secret
 - Twitter : @MaitreSarce
 <!---
