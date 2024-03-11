@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaitreSarce |
+- 👋 Hi, I’m @MaitreSarce
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning web3 
 - 📫 How to reach me, it's a secret !
